@@ -235,12 +235,6 @@ DELETE FROM ventas WHERE id == 9
 
 ---
 
-## 📄 Licencia
-
-MIT (o la que prefieras). Añade `LICENSE` en la raíz.
-
----
-
 ## 🙌 Contribuir
 
 1. Haz un fork & crea una rama.
@@ -252,7 +246,7 @@ MIT (o la que prefieras). Añade `LICENSE` en la raíz.
 ## 👤 Autor
 
 Proyecto de demostración de conocimientos sólidos en **C++** (memoria, archivos binarios, estructuras de datos, Qt).
-Contact: *tu correo / LinkedIn / sitio*.
+Contact: ja2958110@gmail.com / [LinkedIn](https://www.linkedin.com/in/jesus-arias-9b82902aa/) / https://skeletus.github.io/.
 
 ---
 
