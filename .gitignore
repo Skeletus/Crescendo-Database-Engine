@@ -1,0 +1,31 @@
+# Builds
+/build/
+/build-*/
+Desktop_Qt_*/
+/CMakeFiles/
+/CMakeCache.txt
+cmake-build-*/
+*.user
+*.pro.user
+
+# Binaries
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+
+# Qt/Creator
+*.autosave
+/.qmake.stash
+*.qmlc
+*.jsc
+
+# VSCode / misc
+.vscode/
+.DS_Store
+Thumbs.db
