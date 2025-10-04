@@ -57,7 +57,6 @@ MiniDB/
 │
 ├─ cli/
 │  ├─ MiniDBCLI.h                 # CLI simple (REPL).
-│  └─ main_cli_demo.cpp           # demo_cli (main) -> usa MiniDBCLI.
 │
 ├─ gui/ (Qt 6)
 │  ├─ mainwindow.h/.cpp           # QMainWindow + toolbar + docks.
@@ -246,7 +245,7 @@ DELETE FROM ventas WHERE id == 9
 ## 👤 Autor
 
 Proyecto de demostración de conocimientos sólidos en **C++** (memoria, archivos binarios, estructuras de datos, Qt).
-Contact: ja2958110@gmail.com / [LinkedIn](https://www.linkedin.com/in/jesus-arias-9b82902aa/) / https://skeletus.github.io/.
+Contact: ja2958110@gmail.com / https://www.linkedin.com/in/jesus-arturo-arias-lopez-9b82902aa/ / https://skeletus.github.io/.
 
 ---
 
